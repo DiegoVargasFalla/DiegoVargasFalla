@@ -1,11 +1,5 @@
 
 
-
-
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+[Tu+Nombre];Desarrollador+Backend+%7C+Java+%7C+Spring;Tecnologías+%26+DevOps" alt="Título animado" />
-</h1>
-
 <h3 align="center">
   🚀 Apasionado por el desarrollo robusto y las arquitecturas escalables
 </h3>
