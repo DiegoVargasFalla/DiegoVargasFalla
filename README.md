@@ -1,9 +1,30 @@
 
 
-<h3 align="center">
-  🚀 Apasionado por el desarrollo robusto y las arquitecturas escalables
+<h3 align="center" style="color: #7E3ACE; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
+  
+  🔍 **Sobre Mí**  
+  
+  <p align="center" style="border-top: 1px solid #444; padding-top: 15px; width: 70%; margin: 0 auto;"></p>
+  
+  <div style="text-align: left; max-width: 800px; margin: 0 auto; padding: 0 20px;">
+    
+    🎓 **Formación**  
+    Desarrollador en formación y estudiante de ingeniería/tecnología (ajusta según tu caso).  
+    
+    🌱 **Crecimiento**  
+    En constante búsqueda de oportunidades para profundizar en el desarrollo backend con Java/Spring.  
+    
+    ⚙️ **Enfoque**  
+    Adquiero habilidades técnicas y teóricas para resolver problemas con perspectiva analítica y metodologías estructuradas.  
+    
+    🎯 **Objetivo**  
+    Aprendizaje continuo aplicado a proyectos que generen valor tangible.  
+    
+    🚀 **Pasión**  
+    Arquitecturas escalables y desarrollo de software robusto.  
+    
+  </div>
 </h3>
-
 ---
 
 ## 🛠️ **Tech Stack**
