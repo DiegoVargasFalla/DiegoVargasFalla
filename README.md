@@ -57,19 +57,18 @@
 
 ## 🌐 **Conecta conmigo**
 <p align="left">
-  <a href="https://linkedin.com/in/TU_PERFIL" target="_blank">
+  <a href="www.linkedin.com/in/diego-vargas-falla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:TU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://diegovargasfalla.github.io/Portfolio/" target="_blank">
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Profile+Views&color=7E3ACE&style=flat-square" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=DiegoVargasFalla&label=Profile+Views&color=7E3ACE&style=flat-square" alt="Contador de visitas" />
 </div>
