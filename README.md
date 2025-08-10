@@ -55,6 +55,12 @@
 
 ---
 
+## 🏆 Proyectos Destacados
+- [Proyecto 1](https://github.com/DiegoVargasFalla/courseManagementSystem.git)
+- [Proyecto 2](https://github.com/DiegoVargasFalla/HiddenPass-backend.git)
+
+---
+
 ## 🌐 **Conecta conmigo**
 <p align="left">
   <a href="www.linkedin.com/in/diego-vargas-falla" target="_blank">
@@ -64,6 +70,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://diegovargasfalla.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
