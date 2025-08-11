@@ -57,7 +57,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoVargasFalla&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoVargasFalla&theme=dracula&hide_border=true" alt="Racha" width="48%" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=TU_USERNAME&theme=dracula&hide_border=true" alt="Racha" width="48%" />
 </div>
 
 <div align="center">
