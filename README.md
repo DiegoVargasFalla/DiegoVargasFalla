@@ -2,8 +2,8 @@
 
 <h3 align="center">
   
-  **👨‍💻 Desarrollador Backend en Formación**  
-  _Enfoque en Java, Spring Boot y arquitecturas escalables_  
+  **👨‍💻 Desarrollador Backend**  
+  _Enfoque en Java, Spring y arquitecturas escalables_  
   
   📚 Actualmente adquiriendo habilidades técnicas avanzadas  
   ⚡ Transformo conocimiento en soluciones prácticas  
