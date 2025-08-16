@@ -63,7 +63,7 @@
 ---
 
 ## 🏆 Proyectos Destacados
-- [Proyecto 1](https://github.com/DiegoVargasFalla/courseManagementSystem.git)
+- [Proyecto 1](https://github.com/DiegoVargasFalla/CourseManagementSystemApi.git)
 - [Proyecto 2](https://github.com/DiegoVargasFalla/HiddenPass-backend.git)
 
 ---
