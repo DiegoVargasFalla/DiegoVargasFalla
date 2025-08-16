@@ -56,8 +56,8 @@
 ## 📊 **Estadísticas GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoVargasFalla&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas" width="48%" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVargasFalla&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes"width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoVargasFalla&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas" width="47%" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVargasFalla&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes"width="44%" />
 </div>
 
 ---
