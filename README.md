@@ -5,9 +5,9 @@
   **👨‍💻 Desarrollador Backend**  
   _Enfoque en Java, Spring y arquitecturas escalables_  
   
-  📚 Actualmente adquiriendo habilidades técnicas avanzadas  
-  ⚡ Transformo conocimiento en soluciones prácticas  
-  🌟 Objetivo: Contribuir a proyectos de alto impacto  
+  Actualmente adquiriendo habilidades técnicas avanzadas  
+  Transformo conocimiento en soluciones prácticas  
+  Objetivo: Contribuir a proyectos de alto impacto  
 
 </h3>
 
