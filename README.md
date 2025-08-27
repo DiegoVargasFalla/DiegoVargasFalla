@@ -63,8 +63,8 @@
 ---
 
 ## 🏆 Proyectos Destacados
-- [Proyecto 1](https://github.com/DiegoVargasFalla/CourseManagementSystemApi.git) CourseManagementSystemApi
-- [Proyecto 2](https://github.com/DiegoVargasFalla/HiddenPass-backend.git) HidenPass API
+- [Proyecto 1](https://github.com/DiegoVargasFalla/HiddenPass-backend.git) HidenPass API
+- [Proyecto 2](https://github.com/DiegoVargasFalla/CourseManagementSystemApi.git) CourseManagementSystemApi
 ---
 
 ## 🌐 **Conecta conmigo**
