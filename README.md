@@ -2,7 +2,7 @@
 
 <h3 align="center">
   
-  **👨‍💻 Desarrollador Backend**  
+  **👨‍💻 Backend developer**  
   _Focus on Java, spring and scalable architectures_
   
 Currently acquiring advanced technical skills
