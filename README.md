@@ -3,11 +3,11 @@
 <h3 align="center">
   
   **👨‍💻 Desarrollador Backend**  
-  _Enfoque en Java, Spring y arquitecturas escalables_  
+  _Focus on Java, spring and scalable architectures_
   
-  Actualmente adquiriendo habilidades técnicas avanzadas  
-  Transformo conocimiento en soluciones prácticas  
-  Objetivo: Contribuir a proyectos de alto impacto  
+Currently acquiring advanced technical skills
+Transforming knowledge into practical solutions
+Goal: Contribute to high-impact projects
 
 </h3>
 
@@ -19,7 +19,7 @@
 
 ## 🛠️ **Tech Stack**
 
-### 🔧 **Lenguajes y Frameworks**
+### 🔧 **Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
 </p>
 
-### 🗃️ **Bases de Datos y DevOps**
+### 🗃️ **Data base & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-### 🛠 **Herramientas de Desarrollo**
+### 🛠 **Development tools**
 <p align="left">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 **Estadísticas GitHub**
+## 📊 **GitHub Statistics**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoVargasFalla&show_icons=true&theme=dracula&hide_border=true" alt="Estadísticas" width="47%" />
@@ -62,12 +62,12 @@
 
 ---
 
-## 🏆 Proyectos Destacados
+## 🏆 Featured projects
 - [Proyecto 1](https://github.com/DiegoVargasFalla/HiddenPass-backend.git) HidenPass API
 - [Proyecto 2](https://github.com/DiegoVargasFalla/CourseManagementSystemApi.git) CourseManagementSystemApi
 ---
 
-## 🌐 **Conecta conmigo**
+## 🌐 **Conect with me**
 <p align="left">
   <a href="www.linkedin.com/in/diego-vargas-falla" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
