@@ -63,8 +63,8 @@ Goal: Contribute to high-impact projects
 ---
 
 ## 🏆 Featured projects
-- [Proyecto 1](https://github.com/DiegoVargasFalla/HiddenPass-backend.git) HidenPass API
-- [Proyecto 2](https://github.com/DiegoVargasFalla/CourseManagementSystemApi.git) CourseManagementSystemApi
+- [Project 1](https://github.com/DiegoVargasFalla/HiddenPass-backend.git) HidenPass API
+- [Project 2](https://github.com/DiegoVargasFalla/CourseManagementSystemApi.git) CourseManagementSystemApi
 ---
 
 ## 🌐 **Conect with me**
