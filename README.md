@@ -12,7 +12,7 @@ Goal: Contribute to high-impact projects
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enfocado_en-Backend-7E3ACE?style=for-the-badge&logo=java&logoColor=white" alt="Enfoque Backend" />
+  <img src="https://img.shields.io/badge/Focus_on-Backend-7E3ACE?style=for-the-badge&logo=java&logoColor=white" alt="Enfoque Backend" />
 </p>
 
 ---
